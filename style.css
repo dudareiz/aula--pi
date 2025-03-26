@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: #f0f0f0;
+}
+
+#btn {padding: 20px 40px;
+    font-size: 24px;
+    border: none;
+    background-color: #ca4fca;
+    border-radius: 10px;
+    position: absolute; 
+}
